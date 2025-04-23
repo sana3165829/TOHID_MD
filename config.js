@@ -52,7 +52,7 @@ ANTI_BAD: process.env.ANTI_BAD || "false",
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
 ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
-ANTI_STATUS: process.env.ANTI_STATUS || "false",
+ANTI_STATUS: process.env.ANTI_STATUS || "true",
 // make anti link true,false for groups 
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
