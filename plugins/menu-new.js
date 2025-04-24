@@ -13,7 +13,6 @@ cmd({
     try {
         const menuCaption = `╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
 ┃◈╭──❍「 *USER INFO* 」❍
-┃◈├• 👥͎ User : *${pushname}*
 ┃◈├• 👑 Owner : *${config.OWNER_NAME}*
 ┃◈├• 🤖 Baileys : *Multi Device*
 ┃◈├• 🖥️ Type : *NodeJs*
